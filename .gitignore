@@ -1,0 +1,9 @@
+CLAUDE.md
+.claude/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
